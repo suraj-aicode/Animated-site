@@ -49,19 +49,7 @@ const FooterSection = () => {
 
         <div className="mt-40 md:px-10 px-5 flex gap-10 md:flex-row flex-col justify-between text-milk font-paragraph md:text-lg font-medium">
           <div className="flex items-center md:gap-16 gap-5">
-            <div>
-              <p>SPYLT Flavors</p>
-            </div>
-            <div>
-              <p>Chug Club</p>
-              <p>Student Marketing</p>
-              <p>Dairy Dealers</p>
-            </div>
-            <div>
-              <p>Company</p>
-              <p>Contacts</p>
-              <p>Tasty Talk</p>
-            </div>
+  
           </div>
 
           <div className="md:max-w-lg">
@@ -75,7 +63,7 @@ const FooterSection = () => {
           border at the bottom for a clean, modern look. */}
               <input
                 type="email"
-                placeholder="Enter your email"
+                placeholder="Enter Email"
                 className="w-full placeholder:font-sans placeholder:text-[#999999]"
               />
               <img src="/images/arrow.svg" alt="arrow" />
@@ -85,7 +73,7 @@ const FooterSection = () => {
 
         <div className="copyright-box">
           {/* The final row with copyright and legal links. */}
-          <p>Copyright © 2025 Spylt - All Rights Reserved</p>
+            <p>Copyright © 2026 Spylt - All Rights Reserved</p>
           <div className="flex items-center gap-7">
             <p>Privacy Policy</p>
             <p>Terms of Sеrvice</p>
